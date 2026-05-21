@@ -1,0 +1,2 @@
+# Madhav-Economic-Sales-Dashboard-Power-BI-Project
+The Madhav Economic Sales Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyze sales performance, customer trends, profit distribution, and regional business insights.\Interactive sales analytics dashboard built using Microsoft Power BI to visualize sales, profit, customer trends, and performance.
